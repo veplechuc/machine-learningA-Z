@@ -6,11 +6,11 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-requests = "*"
 pandas = "*"
 scikit-learn = "*"
 numpy = "*"
 matplotlib = "*"
+statsmodels = "*"
 
 [requires]
 python_version = "3.7"
